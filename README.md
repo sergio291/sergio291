@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sergio Gonzalez 👨‍💻💻</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<p><em>I´m a curious, self-taught person and committed to excellence. I have a strong interest in technology and have developed relevant skills through my independent learning 😊</br>
-</em></p>
+<p><em>I´m a curious, self-taught person and committed to excellence. I have a strong interest in technology and have developed relevant skills through my independent learning </br>
+</em>😊</p>
 
 - 🌱 I’m currently learning **Frameworks, React, Angular**
 
