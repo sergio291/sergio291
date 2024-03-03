@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png).
+![github-header-image (1)](https://github.com/sergio291/sergio291/assets/128194437/749a1cb3-3c5a-42c8-9de1-24a8686ffa47)
 
 
 
