@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks, React, Angular**
 
-- 💬 Ask me about **Html, css, javascript**
+- 💬 Ask me about **Html, CSS, Javascript**
 
 - 📫 How to reach me **sergiogs169@gmail.com**
 
